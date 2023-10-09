@@ -1,10 +1,10 @@
+body {
+    background-color: rgba(246, 246, 200, 0.921);
+}
+
 .flex {
     display: flex;
     position: absolute;
-}
-
-body {
-    background-color: rgba(246, 246, 200, 0.921);
 }
 
 .side img {
@@ -55,4 +55,9 @@ body {
     width: 100%;
     border-radius: 14px;
     margin-bottom: 20px;
+}
+.discount{
+    text-decoration: underline gold;
+    text-decoration-thickness:5px;
+    margin-top: 2px;
 }
