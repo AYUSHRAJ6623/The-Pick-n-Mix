@@ -1,0 +1,58 @@
+.flex {
+    display: flex;
+    position: absolute;
+}
+
+body {
+    background-color: rgba(246, 246, 200, 0.921);
+}
+
+.side img {
+    bottom: 79px;
+    left: 1000px;
+    position: relative;
+}
+
+.margin {
+    margin-top: 60px;
+}
+
+.grocery {
+    background-color: rgba(255, 173, 173, 0.849);
+    height: 230px;
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+.veg {
+    background-color: rgb(173, 235, 111);
+    height: 230px;
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+.drink {
+    background-color: rgba(129, 225, 249, 0.648);
+    height: 230px;
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+.baked {
+    background-color: rgba(249, 249, 133, 0.706);
+    height: 230px;
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+.medecine {
+    background-color: rgba(146, 238, 146, 0.648);
+    height: 220px;
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
